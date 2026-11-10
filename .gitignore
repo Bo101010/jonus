@@ -1,0 +1,28 @@
+# Build output
+/bin/
+jonus
+
+# Frontend
+web/node_modules/
+web/.vite/
+internal/webui/dist/*
+!internal/webui/dist/index.html
+
+# Python sidecar environment
+python/.venv/
+python/uv.lock
+
+# Model weights and generated artifacts (never commit these)
+models/
+data/
+
+# Local runtime state
+*.db
+*.db-shm
+*.db-wal
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
