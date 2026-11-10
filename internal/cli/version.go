@@ -9,7 +9,7 @@ import (
 )
 
 // Version is the jonus release version. Release builds override it with
-// -ldflags "-X github.com/shaolianbo/jonus/internal/cli.Version=...".
+// -ldflags "-X github.com/Bo101010/jonus/internal/cli.Version=...".
 var Version = "dev"
 
 func newVersionCmd() *cobra.Command {

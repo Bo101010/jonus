@@ -17,14 +17,14 @@ import (
 	"strings"
 	"time"
 
-	"github.com/shaolianbo/jonus/internal/config"
-	"github.com/shaolianbo/jonus/internal/engine"
-	"github.com/shaolianbo/jonus/internal/engine/cloud"
-	"github.com/shaolianbo/jonus/internal/engine/mock"
-	"github.com/shaolianbo/jonus/internal/job"
-	"github.com/shaolianbo/jonus/internal/job/sqlite"
-	"github.com/shaolianbo/jonus/internal/queue"
-	"github.com/shaolianbo/jonus/internal/storage"
+	"github.com/Bo101010/jonus/internal/config"
+	"github.com/Bo101010/jonus/internal/engine"
+	"github.com/Bo101010/jonus/internal/engine/cloud"
+	"github.com/Bo101010/jonus/internal/engine/mock"
+	"github.com/Bo101010/jonus/internal/job"
+	"github.com/Bo101010/jonus/internal/job/sqlite"
+	"github.com/Bo101010/jonus/internal/queue"
+	"github.com/Bo101010/jonus/internal/storage"
 )
 
 // titleLimit bounds a title derived from a prompt, in runes.

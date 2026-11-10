@@ -13,7 +13,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/shaolianbo/jonus/internal/engine"
+	"github.com/Bo101010/jonus/internal/engine"
 )
 
 // songBytes stands in for a downloaded track. It is not real audio: nothing in

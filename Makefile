@@ -15,7 +15,7 @@ PY_DIR    := python
 
 VERSION ?= $(shell git describe --tags --always --dirty 2>/dev/null || echo dev)
 GOFLAGS := -trimpath
-LDFLAGS := -s -w -X github.com/shaolianbo/jonus/internal/cli.Version=$(VERSION)
+LDFLAGS := -s -w -X github.com/Bo101010/jonus/internal/cli.Version=$(VERSION)
 
 .DEFAULT_GOAL := help
 

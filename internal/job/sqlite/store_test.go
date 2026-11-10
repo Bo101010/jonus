@@ -10,7 +10,7 @@ import (
 
 	"github.com/jmoiron/sqlx"
 
-	"github.com/shaolianbo/jonus/internal/job"
+	"github.com/Bo101010/jonus/internal/job"
 )
 
 // newTestDB opens a migrated database inside a directory whose name contains a

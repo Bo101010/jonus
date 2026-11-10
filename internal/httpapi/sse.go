@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/shaolianbo/jonus/internal/job"
-	"github.com/shaolianbo/jonus/internal/queue"
+	"github.com/Bo101010/jonus/internal/job"
+	"github.com/Bo101010/jonus/internal/queue"
 )
 
 // heartbeatInterval is how often a comment is sent on an idle stream.

@@ -5,7 +5,7 @@ import (
 	"math/rand/v2"
 	"time"
 
-	"github.com/shaolianbo/jonus/internal/engine"
+	"github.com/Bo101010/jonus/internal/engine"
 )
 
 // Synthesis constants. The mock produces 44.1 kHz mono, which is what the

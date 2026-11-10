@@ -11,7 +11,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/shaolianbo/jonus/internal/job"
+	"github.com/Bo101010/jonus/internal/job"
 )
 
 // Subdirectory names inside the data root.

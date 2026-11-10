@@ -3,9 +3,9 @@ package httpapi
 import (
 	"time"
 
-	"github.com/shaolianbo/jonus/internal/app"
-	"github.com/shaolianbo/jonus/internal/engine"
-	"github.com/shaolianbo/jonus/internal/job"
+	"github.com/Bo101010/jonus/internal/app"
+	"github.com/Bo101010/jonus/internal/engine"
+	"github.com/Bo101010/jonus/internal/job"
 )
 
 // The views below are the HTTP wire format. They are separate from the domain

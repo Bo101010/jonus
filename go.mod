@@ -1,4 +1,4 @@
-module github.com/shaolianbo/jonus
+module github.com/Bo101010/jonus
 
 go 1.27.3
 

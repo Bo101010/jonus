@@ -13,7 +13,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/shaolianbo/jonus/internal/engine"
+	"github.com/Bo101010/jonus/internal/engine"
 )
 
 // testSampleRate keeps fixtures small; nothing in the mock assumes 44.1 kHz.

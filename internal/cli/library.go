@@ -10,8 +10,8 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/shaolianbo/jonus/internal/app"
-	"github.com/shaolianbo/jonus/internal/job"
+	"github.com/Bo101010/jonus/internal/app"
+	"github.com/Bo101010/jonus/internal/job"
 )
 
 func newLibraryCmd() *cobra.Command {

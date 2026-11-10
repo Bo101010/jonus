@@ -10,9 +10,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/shaolianbo/jonus/internal/app"
-	"github.com/shaolianbo/jonus/internal/job"
-	"github.com/shaolianbo/jonus/internal/queue"
+	"github.com/Bo101010/jonus/internal/app"
+	"github.com/Bo101010/jonus/internal/job"
+	"github.com/Bo101010/jonus/internal/queue"
 )
 
 // followPollInterval is how often a follower re-reads the job from the database.

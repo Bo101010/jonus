@@ -4,7 +4,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/shaolianbo/jonus/internal/job"
+	"github.com/Bo101010/jonus/internal/job"
 )
 
 // subscriberBuffer is how many events a subscriber may fall behind before the

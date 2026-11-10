@@ -12,9 +12,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/shaolianbo/jonus/internal/app"
-	"github.com/shaolianbo/jonus/internal/config"
-	"github.com/shaolianbo/jonus/internal/queue"
+	"github.com/Bo101010/jonus/internal/app"
+	"github.com/Bo101010/jonus/internal/config"
+	"github.com/Bo101010/jonus/internal/queue"
 )
 
 // newTestServer builds a server over a real application on a temporary data

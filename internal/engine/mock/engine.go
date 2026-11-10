@@ -18,8 +18,8 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/shaolianbo/jonus/internal/audio"
-	"github.com/shaolianbo/jonus/internal/engine"
+	"github.com/Bo101010/jonus/internal/audio"
+	"github.com/Bo101010/jonus/internal/engine"
 )
 
 // Name is the engine's identifier in configuration and in the UI.

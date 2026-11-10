@@ -14,10 +14,10 @@ import (
 	"github.com/spf13/cobra"
 	"golang.org/x/sync/errgroup"
 
-	"github.com/shaolianbo/jonus/internal/app"
-	"github.com/shaolianbo/jonus/internal/config"
-	"github.com/shaolianbo/jonus/internal/httpapi"
-	"github.com/shaolianbo/jonus/internal/webui"
+	"github.com/Bo101010/jonus/internal/app"
+	"github.com/Bo101010/jonus/internal/config"
+	"github.com/Bo101010/jonus/internal/httpapi"
+	"github.com/Bo101010/jonus/internal/webui"
 )
 
 // Server timing. The read timeout is generous because a request may wait on the

@@ -15,8 +15,8 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/shaolianbo/jonus/internal/config"
-	"github.com/shaolianbo/jonus/internal/engine/cloud"
+	"github.com/Bo101010/jonus/internal/config"
+	"github.com/Bo101010/jonus/internal/engine/cloud"
 )
 
 // checkStatus is the outcome of a single diagnostic check. It starts at 1 so

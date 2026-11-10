@@ -10,7 +10,7 @@ import (
 
 	"github.com/jmoiron/sqlx"
 
-	"github.com/shaolianbo/jonus/internal/job"
+	"github.com/Bo101010/jonus/internal/job"
 )
 
 // Store is the SQLite implementation of job.JobStore and job.TrackStore.

@@ -23,7 +23,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/shaolianbo/jonus/internal/engine"
+	"github.com/Bo101010/jonus/internal/engine"
 )
 
 // Provider names accepted by Config.Provider.
